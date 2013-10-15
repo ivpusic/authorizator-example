@@ -1,0 +1,24 @@
+{
+  "name": "authorizator-example",
+  "version": "0.0.1",
+  "description": "Example of using authorizator with passport",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "authorizator",
+    "passport"
+  ],
+  "author": "Ivan Pusic",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "authorizator": "~1.0.3",
+    "connect-flash": "~0.1.1",
+    "express": "~3.4.0",
+    "passport": "~0.1.17",
+    "passport-local": "~0.1.6",
+    "ejs": "~0.8.4"
+  }
+}
